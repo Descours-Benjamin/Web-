@@ -1,0 +1,108 @@
+    div#content div {
+        display: inline-block;
+        width: 48%;
+    }
+    
+    div#content div.leftbox {
+        vertical-align: top;
+    }
+    
+    div#content div.leftbox p {
+        margin: 10px;
+    }
+    
+    div#content div.rightbox {}
+    
+    nav.menu-nav ul li.btn {
+        display: inline-table;
+        list-style-type: none;
+    }
+    
+    nav.menu-nav ul li.btn a {
+        color: #ffffff;
+        background-color: #969292;
+        text-decoration: none;
+        padding: 20pt;
+        font-size: 20px;
+    }
+    
+    nav.menu-nav ul li.btn:hover a {
+        color: #969292;
+        background-color: #ffffff;
+        transition: 0.3 all;
+    }
+    
+    nav.menu-nav ul li.btn1 {
+        display: inline-table;
+        list-style-type: none;
+    }
+    
+    nav.menu-nav ul li.btn1 a {
+        color: #ffffff;
+        background-color: #1d1494;
+        text-decoration: none;
+        padding: 20pt;
+        font-size: 20px;
+    }
+    
+    nav.menu-nav ul li.btn1:hover a {
+        color: #1d1494;
+        background-color: #ffffff;
+        transition: 0, 5s all;
+    }
+    
+    footer {
+        color: #ffffff;
+    }
+    
+    h1 {
+        color: #ffffff;
+        background-image: url(/media/descours/K-302/code/WEB/Site_Web_Test/img/First_reactor_bainere.png);
+        font-size: 50pt;
+        padding-bottom: 20px;
+        padding-top: 20px;
+    }
+    
+    a {
+        color: #ffffff;
+    }
+    
+    p.text_1 {
+        color: #45b822;
+        font-size: 20pt;
+    }
+    
+    p.text_2 {
+        color: #45b822;
+        font-size: 40pt;
+        font-weight: bolder;
+    }
+    
+    body {
+        background-color: #7a5555;
+    }
+    
+    h2 {
+        color: #ffffff;
+        background-color: grey;
+        font-size: 30pt;
+        padding-bottom: 15px;
+        padding-top: 15px;
+    }
+    
+    h3 {
+        color: #ffffff;
+        font-size: 30px;
+        padding-bottom: 15px;
+        padding-top: 15px;
+    }
+    
+    p.news {
+        color: #fff;
+        font-size: 20px;
+    }
+    
+    p.pp1 {
+        color: white;
+        font-size: 20pt;
+    }
